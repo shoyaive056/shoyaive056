@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there
+Entry-level Web Developer and final-year Software Engineering student with project-based experience building responsive React interfaces, managing application state with Redux Toolkit, and integrating REST APIs. Proficient in JavaScript, HTML5, CSS3, and Python, with hands-on experience using Git and GitHub for version control. Familiar with backend development, database management, and authentication. Seeking a web development internship to contribute to real-world projects, strengthen technical skills, and gain professional industry experience.👋
  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shoyaive056) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shoyaive056) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmudul-hassan-shoyaive-swe) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MahmudulHassanShoyaive) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhshoyaive@gmail.com) 
